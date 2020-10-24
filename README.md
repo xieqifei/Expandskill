@@ -17,11 +17,7 @@ ADB全称安卓设备调试工具，是谷歌官方提供帮助安卓开发者�
 4. http服务器接收到请求后，执行已经写好的ADB指令，控制手机，实现婉儿一键上天。
 
 看看使用效果吧！
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-    <iframe src="//player.bilibili.com/player.html?aid=415048053&bvid=BV18V411y7rw&cid=249226194&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
-    </iframe>
-</div>
+https://www.bilibili.com/video/BV18V411y7rw/
 
 # 2：ADB工具及调试手机
 
